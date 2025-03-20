@@ -4,7 +4,7 @@ Resources for interviews, resumes and the like
 #Questions for job Interviews
 
 The document isn't intended as a list of questions that must be asked. Rather, it is meant as a way to get you thinking about the 
-types of questions one could ask in an inteview.
+types of questions one could ask in an interview.
 
 
 The document is grouped into various sections with similar questions.
